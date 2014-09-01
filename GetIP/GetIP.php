@@ -4,7 +4,7 @@ namespace GetIP;
 
 class GetIP {
 	public static function get($extended = true) {
-		$ipaddress = '';
+	    $ipaddress = '';
 
 	    if (isset($_SERVER['HTTP_CLIENT_IP'])) {
 	        $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
