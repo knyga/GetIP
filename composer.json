@@ -16,7 +16,7 @@
         "php": ">= 5.4"
     },
     "autoload": {
-        "psr-0": { "src\\": "." }
+        "psr-0": { "GetIP\\": "." }
     },
     "config": {
         "bin-dir": "bin"
