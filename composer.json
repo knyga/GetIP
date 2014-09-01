@@ -1,0 +1,24 @@
+{
+    "name": "knyga/getip",
+    "type": "application",
+    "description": "Gets real IP of the visitor",
+    "keywords": ["ip", "http", "https",  "knyga", "knig"],
+    "homepage": "https://github.com/knyga/GetIP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Knyga",
+            "email": "oleksandrknyga@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 5.4"
+    },
+    "autoload": {
+        "psr-0": { "src\\": "." }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
