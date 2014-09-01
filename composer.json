@@ -2,7 +2,7 @@
     "name": "knyga/getip",
     "type": "application",
     "description": "Gets real IP of the visitor",
-    "keywords": ["ip", "http", "https",  "knyga", "knig"],
+    "keywords": ["ip", "http", "https",  "knyga", "knig", "proxy", "antiproxy"],
     "homepage": "https://github.com/knyga/GetIP",
     "license": "MIT",
     "authors": [
